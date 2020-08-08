@@ -1,0 +1,21 @@
+.dropdown-menu {
+  left: 80px;
+}
+.member {
+  left: 320px;
+}
+h2.welcometext {
+  position: absolute;
+  top: -290px;
+}
+.show {
+  display: block;
+}
+.hidden {
+  display: none;
+}
+.inside {
+  position: absolute;
+  top: 59px;
+  right: 20px;
+}
